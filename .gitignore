@@ -1,3 +1,4 @@
 data/raw/
 data/clean/
 .venv/
+notebook/exampleusecase.ipynb
